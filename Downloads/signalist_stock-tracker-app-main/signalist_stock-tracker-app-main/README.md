@@ -21,7 +21,7 @@
   <h3 align="center">Stock Market App — Alerts, Charts, AI Insights</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://youtu.be/gu4pafNCXng" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href=" target="_blank"><b>Mr. Riyalal Tarole</b></a> 
     </div>
 </div>
 
@@ -34,13 +34,19 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
+## 🚨 All Tasks:
+1. User Login and Data Persistence: - Implement a login system using Firebase or another authentication service. Save user preferences, watchlists, and portfolio data to the database so users can access their data across sessions. - _Goal:_ Practice full-stack integration with persistent user data and state management.
+2. Multi-Asset Chart: - Allow users to display multiple assets on the same chart for comparison. Implement the ability to overlay different types of random data sets (e.g., stocks, bonds, crypto). - _Goal:_ Enable advanced charting capabilities that involve comparing and overlaying multiple datasets.
+3. Advanced Portfolio Simulation: - Build a portfolio management system where users can simulate buying and selling stocks with random data. Track profit/loss, portfolio value, and asset allocation dynamically. - _Goal:_ Dive deeper into the trading simulation, adding multiple variables like buy/sell functionality, tracking costs, and returns.
+4. Candlestick Pattern Recognition: - Implement a feature that identifies common candlestick patterns (e.g., hammer, doji, engulfing patterns) based on the random data and highlights them on the chart. - _Goal:_ Add a level of data analysis that mimics professional trading platforms.
+5. Customizable Indicators and Strategies: - Allow users to add their own trading indicators (like Bollinger Bands, Moving Averages) and apply simple trading strategies (e.g., "Buy when the price crosses the 50-day moving average") to the random data. - _Goal:_ Let users engage more deeply with the data and charting by implementing their own strategies.
+6. Advanced Data Analytics Dashboard: - Build an analytics dashboard that displays key financial indicators for each random data set, like moving averages, volatility, and RSI (Relative Strength Index). Allow users to customize which metrics are displayed. - _Goal:_ Add a professional layer of data analysis, enhancing the functionality of the platform beyond just charting.
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="" target="_blank"><b>Mr. Riyalal Tarole</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/gu4pafNCXng" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">✨ Introduction</a>
 
@@ -168,7 +174,7 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
+**Advanced Skill learn from NullClass**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
@@ -176,3 +182,30 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsm.dev/stocks-jsmpro" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
 </a>
+## 🎓 Internship & Project Report
+
+This project was developed as part of my internship at **NULL Class**.
+
+During this internship, I worked on building a full-stack stock market application using modern technologies like Next.js, MongoDB, and real-time APIs. The project helped me gain hands-on experience in frontend development, backend integration, API handling, and database management.
+
+### 📌 Key Learnings:
+- Full-stack development using Next.js  
+- MongoDB database integration  
+- Real-time API integration (Finnhub)  
+- Authentication & user management  
+- Debugging and environment configuration  
+- Building scalable and clean UI  
+
+### 📄 Project Report:
+A detailed report has been prepared covering:
+- Project objectives  
+- System architecture  
+- Technology stack  
+- Implementation details  
+- Challenges faced & solutions  
+
+---
+
+## 👨‍💻 Author
+
+**Mr. Riyalal Tarole**
