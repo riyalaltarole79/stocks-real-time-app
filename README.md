@@ -1,11 +1,8 @@
 ---
-
+## 🌐 Live Demo
+[View Project](https://signalist-stock-tracker-app-beige.vercel.app)
 ## 🎓 Internship & Project Report
-<p align="center">
-  🌐 Live Demo: 
-  <a href="https://signalist-stock-tracker-app-beige.vercel.app" target="_blank">
-    https://signalist-stock-tracker-app-beige.vercel.app
-  </a>
+
 This project was developed as part of my internship at **NULL Class**.
 
 During this internship, I worked on building a full-stack stock market application using modern technologies like Next.js, MongoDB, and real-time APIs. The project helped me gain hands-on experience in frontend development, backend integration, API handling, and database management.
