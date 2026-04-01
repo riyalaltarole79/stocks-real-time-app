@@ -48,10 +48,8 @@
 4. Candlestick Pattern Recognition: - Implement a feature that identifies common candlestick patterns (e.g., hammer, doji, engulfing patterns) based on the random data and highlights them on the chart. - _Goal:_ Add a level of data analysis that mimics professional trading platforms.
 5. Customizable Indicators and Strategies: - Allow users to add their own trading indicators (like Bollinger Bands, Moving Averages) and apply simple trading strategies (e.g., "Buy when the price crosses the 50-day moving average") to the random data. - _Goal:_ Let users engage more deeply with the data and charting by implementing their own strategies.
 6. Advanced Data Analytics Dashboard: - Build an analytics dashboard that displays key financial indicators for each random data set, like moving averages, volatility, and RSI (Relative Strength Index). Allow users to customize which metrics are displayed. - _Goal:_ Add a professional layer of data analysis, enhancing the functionality of the platform beyond just charting.
+ <a href="" target="_blank"><b>Mr. Riyalal Tarole</b></a>.
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="" target="_blank"><b>Mr. Riyalal Tarole</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 <a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
