@@ -57,11 +57,14 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">✨ Introduction</a>
 
-AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis—perfect for devs who want a dynamic, real-time financial platform.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+This project is a full-stack stock market web application developed using Next.js, MongoDB, and real-time APIs. It enables users to track live stock prices, manage personalized watchlists, and receive intelligent alerts for better investment decisions.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+The application integrates external financial APIs to deliver real-time market data and provides a clean, responsive user interface built with modern UI tools. It also includes authentication, database management, and scalable backend logic, making it a complete production-ready system.
+
+This project demonstrates my practical understanding of full-stack development, API integration, and real-world problem solving.
+
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
