@@ -5,6 +5,13 @@
     </a>
   <br />
 
+  <p align="center">
+  🌐 Live Demo: 
+  <a href="https://signalist-stock-tracker-app-beige.vercel.app" target="_blank">
+    https://signalist-stock-tracker-app-beige.vercel.app
+  </a>
+</p>
+
   <div>
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
     <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=black"/>
