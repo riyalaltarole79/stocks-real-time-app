@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="signalist-stock-tracker-app-beige.vercel.app" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
+      <img src="" alt="Project Banner">
     </a>
   <br />
 
